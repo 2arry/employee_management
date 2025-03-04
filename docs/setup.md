@@ -10,7 +10,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/employee_management.git
+    git clone https://github.com/2arry/employee_management.git
     cd employee_management
     ```
 
